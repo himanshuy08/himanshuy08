@@ -43,8 +43,8 @@
 ---
 
 ### 🎨 Some of my projects:
-- [InkFlow](https://github.com/himanshuy08/InkFlow) -
-- [Expense Tracker](https://github.com/himanshuy08/Expense-Tracker) - 
+- [InkFlow](https://github.com/himanshuy08/InkFlow) - Collaborator Whiteboard
+- [Expense Tracker](https://github.com/himanshuy08/Expense-Tracker) - Expense Tracker
 
 ---
 
