@@ -13,10 +13,10 @@
 - Next.js
 - TypeScript
 - Hadoop & Big Data
-
+- Machine Learning 
 ### 🔭 I’m currently working on:
 - A **legal draft document generation** website using Next.js.
-- A **YouTube video downloader** script in Python.
+- A **Collaboration White Board** using React JS & WebSocket.
 
 ### 👯 I’m looking to collaborate on:
 - Open-source projects related to **data analysis** and **machine learning**.
@@ -43,8 +43,8 @@
 ---
 
 ### 🎨 Some of my projects:
-- [Project 1](https://github.com/himanshuy08/project1) - Brief description of what this project does.
-- [Project 2](https://github.com/himanshuy08/project2) - Brief description of what this project does.
+- [InkFlow](https://github.com/himanshuy08/InkFlow) -
+- [Expense Tracker](https://github.com/himanshuy08/Expense-Tracker) - 
 
 ---
 
