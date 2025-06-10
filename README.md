@@ -11,8 +11,6 @@
 
 ### 🌱 I’m currently learning:
 - Next.js
-- TypeScript
-- Hadoop & Big Data
 - Machine Learning 
 ### 🔭 I’m currently working on:
 - A **legal draft document generation** website using Next.js.
