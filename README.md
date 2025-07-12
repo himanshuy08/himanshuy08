@@ -23,7 +23,7 @@
 - Improving my **Python** skills and **algorithms**.
 
 ### 💬 Ask me about:
-- **Web development**, **Hadoop**, and **data structures**.
+- **Web development** and **data structures**.
 
 ### 📫 How to reach me:
 - **Email:** [your-email@example.com](mailto:your-email@example.com)
