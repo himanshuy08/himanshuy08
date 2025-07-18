@@ -1,51 +1,28 @@
-<div align="center">
-  <h1 align="center">👋 Hi there! I'm Himanshu</h1>
-  <p>
-    Welcome to my GitHub profile! 🌟<br>
-    I'm a passionate developer with a love for coding and technology. 💻
-  </p>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
-</div>
+<h1 align="center">Hey 👋, I'm Himanshu Yadav</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=AI+Engineer+%7C+LLM+Explorer+%7C+Edge+ML+Developer+%7C+DSA+Lover" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🌱 I’m currently learning:
-- Next.js
-- Machine Learning 
-### 🔭 I’m currently working on:
-- A **legal draft document generation** website using Next.js.
-- A **Collaboration White Board** using React JS & WebSocket.
+### 🧠 About Me
 
-### 👯 I’m looking to collaborate on:
-- Open-source projects related to **data analysis** and **machine learning**.
+```txt
+🚀 AI/ML engineer who loves shipping real-world solutions.
+💬 Fluent in LLMs, Deep Learning, STT/TTS, and smart APIs.
+🧱 DSA junkie solving LeetCode to stay sharp.
+🛠️ Languages & Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,react,fastapi,vite,linux,git,github,docker,vscode" /> </p>
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=himanshuy08&show_icons=true&theme=radical&border_radius=15" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuy08&theme=radical&border_radius=15" width="47%" /> </p>
+🐍 Contribution Snake
+<p align="center"> <img src="https://github.com/himanshuy08/himanshuy08/blob/output/github-contribution-grid-snake.svg" /> </p>
 
-### 🤔 I’m looking for help with:
-- Improving my **Python** skills and **algorithms**.
+Fun Facts
 
-### 💬 Ask me about:
-- **Web development** and **data structures**.
-
-### 📫 How to reach me:
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-
----
-
-
-
-<div align="center">
-  <h3>🌟 My GitHub Stats 🌟</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshuy08&show_icons=true&theme=radical" />
-</div>
-
----
-
-### 🎨 Some of my projects:
-- [InkFlow](https://github.com/himanshuy08/InkFlow) - Collaborator Whiteboard
-- [Expense Tracker](https://github.com/himanshuy08/Expense-Tracker) - Expense Tracker
-
----
-
-<div align="center">
-  <h4>Thank you for visiting my profile! 😊</h4>
-</div>
+💡 I use LangChain more than I use my real chains.
+🐍 I love snakes... especially GitHub's contribution snake.
+⚡ I once debugged for 3 hours only to fix an indentation. Python things.
+🎯 Coding is my cardio.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=himanshuy08&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuy08" /> </p> ```
