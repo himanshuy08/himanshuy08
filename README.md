@@ -7,7 +7,7 @@
 ---
 
 🚀 AI/ML engineer who loves shipping real-world solutions.  
-💬 Fluent in LLMs, Deep Learning, STT/TTS, and smart APIs.  
+💬 Currently exploring and learning LLMs, Deep Learning.  
 🧱 DSA junkie solving LeetCode to stay sharp.  
 
 ---
