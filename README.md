@@ -45,10 +45,8 @@ I'm open to **collaborations**, **internship opportunities**, and knowledge exch
 ### 🌀 Life in a Nutshell
 
 <p align="center">
-  <img src="giphy.gif" width="500" alt="Life in a Nutshell" />
+  <img src="giphy.gif" width="500" height="300" alt="Life in a Nutshell" />
 </p>
-
----
 
 
 ---
