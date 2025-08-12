@@ -42,11 +42,14 @@ I'm open to **collaborations**, **internship opportunities**, and knowledge exch
 
 ---
 
-### 📈 Contribution Activity
+### 🌀 Life in a Nutshell
 
 <p align="center">
-  <img src="https://github.com/himanshuy08/himanshuy08/blob/output/github-contribution-grid-snake.svg" />
+  <img src="giphy.gif" width="500" alt="Life in a Nutshell" />
 </p>
+
+---
+
 
 ---
 
