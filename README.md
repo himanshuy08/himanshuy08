@@ -72,7 +72,7 @@ open_to:
 ## `eval_metrics()`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshuy08&show_icons=true&theme=radical&border_radius=15&hide_border=true&cache_seconds=86400" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=himanshuy08&show_icons=true&theme=radical&border_radius=15&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=himanshuy08&theme=radical&border_radius=15&hide_border=true" width="48%" />
 </p>
 
