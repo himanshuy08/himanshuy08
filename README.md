@@ -73,7 +73,7 @@ $ ./scripts/render-contribution-graph.sh --mode=3d --rotate
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshuy08/himanshuy08/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshuy08/himanshuy08/main/profile-3d-contrib/profile-south.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshuy08/himanshuy08/main/profile-3d-contrib/profile-green-animate.svg" />
   <img alt="3d contribution calendar" src="https://raw.githubusercontent.com/himanshuy08/himanshuy08/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 </p>
