@@ -67,6 +67,17 @@ open_to:
 
 <br>
 
+<br>
+
+```
+$ tail -f activity.log --lines=31d
+```
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshuy08&bg_color=00000000&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=00FF9C&hide_border=true&custom_title=commit%20activity%20%E2%80%94%20last%2031%20days" alt="activity graph" />
+</p>
+
+<br>
+
 ```
 $ ./scripts/render-contribution-graph.sh --mode=3d --rotate
 ```
