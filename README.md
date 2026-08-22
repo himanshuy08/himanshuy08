@@ -1,13 +1,11 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00FF9C&height=200&section=header&text=himanshu-os&fontColor=00FF9C&fontSize=60&fontAlignY=38&animation=fadeIn&desc=booting%20a%20developer...&descAlignY=58&descSize=18&descColor=00FF9C" alt="header" />
+
 <img src="https://scribesvg.vercel.app/api/render?lines=%24+boot+himanshu-os;Initializing+kernel...;Mounting+%2Fskills...;Starting+services...;himanshu-os+ready.&layout=terminal&theme=matrix&center=true" alt="boot sequence" />
 
-</div>
-
-<br>
-
-<div align="center">
 <img src="https://neofetch-profile.vercel.app/api?username=himanshuy08&theme=github-dark" alt="neofetch" />
+
 </div>
 
 <br>
@@ -70,6 +68,19 @@ open_to:
 <br>
 
 ```
+$ ./scripts/render-contribution-graph.sh --mode=3d --rotate
+```
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshuy08/himanshuy08/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshuy08/himanshuy08/main/profile-3d-contrib/profile-south.svg" />
+  <img alt="3d contribution calendar" src="https://raw.githubusercontent.com/himanshuy08/himanshuy08/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
+</p>
+
+<br>
+
+```
 $ nmcli connection show --active
 ```
 ```
@@ -96,4 +107,9 @@ load average: curiosity(high), ignorance(falling), coffee(critical)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=himanshuy08&label=connections+logged&color=00FF9C&style=flat" alt="Profile Views" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:0f2027&height=120&section=footer" alt="footer" />
+
 </div>
