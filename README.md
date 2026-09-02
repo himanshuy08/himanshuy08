@@ -1,8 +1,8 @@
 <div align="center">
 
-# Himanshu Yadav
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00FF9C&height=220&section=header&text=Himanshu%20Yadav&fontColor=00FF9C&fontSize=55&fontAlignY=38&animation=fadeIn&desc=Backend%20%26%20ML%20Engineer%20%7C%20M.Tech%20Data%20Analytics&descAlignY=58&descSize=18&descColor=FFFFFF" alt="header" />
 
-Backend & ML engineer building data-driven systems, currently pursuing M.Tech in Data Analytics.
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+data-driven+systems;Training+models+that+generalize;Shipping+FastAPI+services;Always+debugging,+always+learning&font=Fira+Code&center=true&width=600&height=45&color=00FF9C&vCenter=true&size=22" alt="typing" />
 
 </div>
 
@@ -47,6 +47,35 @@ Backend & ML engineer building data-driven systems, currently pursuing M.Tech in
 
 <br>
 
+## Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshuy08&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+<br>
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/himanshuy08/himanshuy08/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<br>
+
+## Currently Building
+
+```yaml
+learning:
+  - transformer architectures and attention mechanisms
+  - LLM fine-tuning and evaluation pipelines
+shipping:
+  - FastAPI services for ML inference
+  - end-to-end DSA practice repo
+```
+
+<br>
+
 ## Open to
 
 Collaborations · internships · knowledge exchange
@@ -56,3 +85,13 @@ Collaborations · internships · knowledge exchange
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshuy08)
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=himanshuy08&label=Profile+Views&color=00FF9C&style=flat" alt="Profile Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:0f2027&height=120&section=footer" alt="footer" />
+
+</div>
