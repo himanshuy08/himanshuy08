@@ -1,6 +1,7 @@
 # HIMANSHU-1 API
 
-> a general-purpose engineering model, in continuous training
+**Where algorithms meet architecture.**
+— Himanshu Yadav | Backend × Machine Learning Engineering
 
 ---
 
