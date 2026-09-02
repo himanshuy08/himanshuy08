@@ -1,126 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00FF9C&height=200&section=header&text=himanshu-os&fontColor=00FF9C&fontSize=60&fontAlignY=38&animation=fadeIn&desc=booting%20a%20developer...&descAlignY=58&descSize=18&descColor=00FF9C" alt="header" />
+# Himanshu Yadav
 
-<img src="https://scribesvg.vercel.app/api/render?lines=%24+boot+himanshu-os;Initializing+kernel...;Mounting+%2Fskills...;Starting+services...;himanshu-os+ready.&layout=terminal&theme=matrix&center=true" alt="boot sequence" />
-
-<img src="https://neofetch-profile.vercel.app/api?username=himanshuy08&theme=github-dark" alt="neofetch" />
+Backend & ML engineer building data-driven systems, currently pursuing M.Tech in Data Analytics.
 
 </div>
 
 <br>
 
-```
-$ systemctl status career.service
-```
-```
-● career.service - Himanshu Yadav, continuous build
-   Loaded: enabled (M.Tech, Data Analytics)
-   Active: active (running)
+## Focus
 
-   [  OK  ] curiosity.target                  reached
-   [  OK  ] dsa-grind.service                 pattern recognition: improving
-   [  OK  ] ml-fundamentals.service           gradient pointing downhill
-   [  OK  ] backend-layer.service             fastapi.service, flask.service active
-   [  OK  ] nlp-llm.service                   attention weights shifting
-   [  OK  ] mtech-data-analytics.service      batch_size=real_world_problems
-   [ >>>> ] next-commit.service               starting...
-```
+- Machine learning and deep learning fundamentals
+- NLP and LLM-based applications
+- Python backend services with FastAPI and Flask
+- DSA and algorithmic problem solving
 
 <br>
 
-```
-$ ps aux --sort=-%learning | head
-```
-```
-USER       PID  STACK          STATUS      NOTES
-himanshu     1  python          R           daily driver
-himanshu     2  cpp             S           low-level thinking
-himanshu    17  pytorch         R           model training
-himanshu    18  tensorflow      S           backup engine
-himanshu    42  fastapi         R           serving requests
-himanshu    43  react           R           rendering UI
-himanshu    99  docker          S           shipping containers
-himanshu   100  git             R+          never idle
-```
+## Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,fastapi,react,docker,git,github,vscode,linux" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 <br>
 
-```
-$ cat /etc/himanshu-os/hyperparameters.yaml
-```
-```yaml
-currently_exploring:
-  - machine_learning_and_deep_learning_fundamentals
-  - natural_language_processing_and_llms
-  - python_backend_frameworks: [fastapi, flask]
-  - leetcode_and_algorithms
-open_to:
-  - collaborations
-  - internships
-  - knowledge_exchange
-```
+## GitHub Stats
 
-<br>
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=himanshuy08&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuy08&theme=radical&hide_border=true" />
+</p>
 
-<br>
-
-```
-$ tail -f activity.log --lines=31d
-```
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshuy08&bg_color=00000000&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=00FF9C&hide_border=true&custom_title=commit%20activity%20%E2%80%94%20last%2031%20days" alt="activity graph" />
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshuy08&theme=react-dark&hide_border=true" width="97%" />
 </p>
 
 <br>
 
-```
-$ ./scripts/render-contribution-graph.sh --mode=3d --rotate
-```
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshuy08/himanshuy08/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshuy08/himanshuy08/main/profile-3d-contrib/profile-green-animate.svg" />
-  <img alt="3d contribution calendar" src="https://raw.githubusercontent.com/himanshuy08/himanshuy08/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
-</p>
+## Open to
+
+Collaborations · internships · knowledge exchange
 
 <br>
 
-```
-$ nmcli connection show --active
-```
-```
-NAME        TYPE      DEVICE
-github      social     himanshuy08
-inference   log        next.5.years — status: still computing
-```
+## Connect
 
-<br>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=himanshuy08&show_icons=true&theme=radical&border_radius=15&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=himanshuy08&theme=radical&border_radius=15&hide_border=true" width="48%" />
-</p>
-
-<br>
-
-```
-$ uptime
-```
-```
-load average: curiosity(high), ignorance(falling), coffee(critical)
-```
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=himanshuy08&label=connections+logged&color=00FF9C&style=flat" alt="Profile Views" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:0f2027&height=120&section=footer" alt="footer" />
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshuy08)
